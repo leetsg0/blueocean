@@ -1,2 +1,2 @@
 # blueocean
-Udacity Pipeline
+Jenkins file repository used with Blueocean skin
